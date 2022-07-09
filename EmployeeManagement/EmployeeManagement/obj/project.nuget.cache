@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WygHgSBt3gkFxT1FZU6N74dbXixaMBSyj7agVn6hLQ34ZhKaqOShXXLq7SoTJE06pvZwADy4KEqdN5oo9kRVtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AnjanaKavinda\\source\\repos\\Employee\\EmployeeManagement-.NET-core-API-with-reactjs\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AnjanaKavinda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AnjanaKavinda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AnjanaKavinda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AnjanaKavinda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AnjanaKavinda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AnjanaKavinda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
